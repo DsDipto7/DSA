@@ -1,0 +1,22 @@
+4. The minimum number of functions present in any C++ program is:
+a) 0
+b) 1
+c) 2
+d) Infinite
+
+answer: b) 1
+
+ 5. State True and False:
+a) A function may be called more than once from any other function
+answer:  True
+
+// A function in C++ can be called multiple times from any other function, including main() or other user-defined functions.
+
+b) It is necessary for a function to return some value.
+ answer: False
+
+In C++, a function does not have to return a value if its return type is void.
+
+
+6. Explore: Can the same function name be used for different functions without any conflict?
+ Yes, this is possible .
